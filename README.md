@@ -1,4 +1,4 @@
-# openquestions_analytics
+# Sentiment Analysis Method and its Application in Open Questions
 El presente repositorio contiene los scripts utilizados para el análisis de sentimientos en preguntas abiertas.
 Desarrollado por:
 
