@@ -1,4 +1,5 @@
-# Sentiment Analysis Method and its Application in Open Questions
+# Sentiment and Text Analysis Methodology and its Application in Educational Data 
+
 El presente repositorio contiene los scripts utilizados para el análisis de sentimientos en preguntas abiertas.
 Desarrollado por:
 
